@@ -4,8 +4,9 @@ This project implements a Retrieval-Augmented Generation (RAG) chatbot using the
 
 ## Images
 ### homepage
+![homepage](https://github.com/Transcendental-Programmer/Rag-chatbot/blob/main/static/home.png)
 ### chatpage
-
+![chat page](https://github.com/Transcendental-Programmer/Rag-chatbot/blob/main/static/chat.png)
 ## Prerequisites
 
 - Python 3.11.4
