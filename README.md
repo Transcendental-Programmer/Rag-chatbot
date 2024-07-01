@@ -35,9 +35,11 @@ This project implements a Retrieval-Augmented Generation (RAG) chatbot using the
 
 1. Sign up for a Hugging Face account if you haven't already: https://huggingface.co/join
 
-2. Generate an API token from your Hugging Face account settings.
+2. Sign up for a PineCone DB account if you haven't already: https://www.pinecone.io/
 
-3. Create a `.env` file in the project root directory and add your Hugging Face API token and pinecone api:
+3. Generate an API token from your Hugging Face account settingsand pinecone db .
+
+4. Create a `.env` file in the project root directory and add your Hugging Face API token and pinecone api:
    ```
    HUGGINGFACE_API_TOKEN=your_api_token_here
    PINECONE_API_KEY=your_ api
