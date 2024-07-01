@@ -2,6 +2,10 @@
 
 This project implements a Retrieval-Augmented Generation (RAG) chatbot using the Hugging Face API, PINECONE DB.
 
+## Images
+### homepage
+### chatpage
+
 ## Prerequisites
 
 - Python 3.11.4
